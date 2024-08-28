@@ -60,7 +60,7 @@ Only at the end will you find your gift. In the meantime, here is a little walkt
 It may take some time. \n
 Go through at your own pace. It's all just for you. \n
 I hope you like it my love <3 \n
-Also, now is the time to open the wrapped gift :) (It'll come in handy when you reach the actual)
+Also, now is the time to open the wrapped gift :) (It'll come in handy when you reach the actual gift) \n
 (Apologies if the color/palette/design bit for the website does not work together...)
 </font>
 """,unsafe_allow_html=True)
