@@ -270,7 +270,7 @@ if st.button("Some Cute Memories", use_container_width=True):
     st.switch_page("pages/mems.py")
 
 
-if st.session_state.button6 == 0:
+if st.session_state.button7 == 0:
     st.markdown("""
     <style>     
     .element-container:has(#button-after7)  + div button {
