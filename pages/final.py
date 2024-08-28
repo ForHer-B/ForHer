@@ -38,6 +38,27 @@ st.markdown("<h1 style='text-align: center;'><font color='black'>Your actual gif
 
 st.markdown("""
 <font color='black'>
-My beloved, this is the actual gift for you. I hope you like it.
+My beloved, this is the actual gift for you. I hope you like it. \n
+(Don't forget the present if you haven't opened it yet)
 </font>
 """,unsafe_allow_html=True)
+
+
+st.markdown("""
+    <style>     
+    .element-container:has(#button-after99)  + div button {
+        padding: 10px 10px;
+        background-color: #ff9ebb;
+        color: #522e38;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        /* margin-left: 10px;   Add margin on the left */
+        /* margin-right: 10px;  Add margin on the right */
+    }
+    </style>
+    <div id="button-2"></div>
+    """, unsafe_allow_html=True)
+st.markdown('<div id="button2"> </div> <span id="button-after99"></span>', unsafe_allow_html=True)
+st.link_button("Enjoy meri jaan <3", "https://youtube.com/playlist?list=PLHiSDXNH_PdWbEStnEFtWdRUyviFFDkm1&si=qFBsN-Gq0yoCROWb")
