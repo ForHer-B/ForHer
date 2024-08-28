@@ -32,6 +32,7 @@ st.markdown(
 st.markdown("<h1 style='text-align: center;'><font color='black'>Blessings on My Phone</font></h1>", unsafe_allow_html=True)
 st.markdown("""
 <font color='black'>
+
 - The countless messages you send me that I star and re-read so so many times. \n
 - My notes about you \n
 - Your contact, I can reach you even if there's distance between us \n
